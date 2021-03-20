@@ -1,0 +1,9 @@
+
+	- Task 2:
+	
+		- Task Statement:
+			- Solve all the levels of the Flexbox Froggy game.
+			- Website: https://flexboxfroggy.com/.
+		
+		- Deadline:
+			- the 20th of March, 2021

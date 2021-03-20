@@ -1,0 +1,134 @@
+body
+{
+    /* Position */
+    margin: 0;
+}
+
+
+header
+{
+    /* Size */
+    height: 6vh;
+
+    /* Colour */
+    background-color: #333333;
+}
+
+
+#logo_section
+{
+    /* Size */
+    height: 100%;
+
+    /* Display Mode */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+
+#logo
+{
+    /* Size */
+    height: 3vh;
+    width: 3vh;
+
+    /* Border */
+    border-radius: 50%;
+
+    /* Position */
+    margin-left: 0.8vw;
+    margin-right: 0.8vw;
+
+    /* Colour */
+    background-color: #C4C4C4;
+}
+
+
+#title
+{
+    /* Font Properties */
+    font-size: 16px;
+    font-weight: 200;
+    color: #C4C4C4;
+}
+
+
+main
+{
+    /* Size */
+    height: 94vh;
+
+    /* Display Mode */
+    display: flex;
+}
+
+
+nav
+{
+    /* Size */
+    width: 15%;
+
+    /* Colour */
+    background-color: #9C9C9C;
+}
+
+
+.item
+{
+    /* Size */
+    height: 5vh;
+
+    /* Colour */
+    background-color: #4E4E4E;
+}
+
+
+.item_name
+{
+    /* Position */
+    margin-left: 1vh;
+
+    /* Font Properties */
+    font-size: 2vh;
+    font-weight: 100;
+    color: #FFFFFF;
+}
+
+
+article
+{
+    /* Position */
+    margin: 50px;
+}
+
+
+.section_title
+{
+    /* Font Properties */
+    font-size: 28px;
+}
+
+
+.elements
+{
+    /* Display Mode */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+
+.element
+{
+    /* Size */
+    height: 200px;
+    width: 320px;
+
+    /* Position */
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+    /* Colour */
+    background-color: #C6C6C6;
+}

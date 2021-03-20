@@ -1,0 +1,8 @@
+
+	- Task 1:
+		
+		- Task Statement:
+			- Reproduce the template from the screenshot using HTML and CSS.
+		
+		- Deadline:
+			- the 20th of March, 2021
