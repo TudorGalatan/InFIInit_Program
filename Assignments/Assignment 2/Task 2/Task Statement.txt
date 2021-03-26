@@ -1,0 +1,10 @@
+
+	- Task 2:
+		
+		- Task Statement:
+			- Solve the Valid Paratheses task on LeetCode.
+			- Task Link:
+				- https://leetcode.com/problems/valid-parentheses/
+		
+		- Deadline:
+			- the 31st of March, 2021

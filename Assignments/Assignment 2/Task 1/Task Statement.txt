@@ -1,0 +1,10 @@
+
+	- Task 1:
+		
+		- Task Statement:
+			- Solve the Two Sum task on LeetCode.
+			- Task Link:
+				- https://leetcode.com/problems/two-sum/
+		
+		- Deadline:
+			- the 31st of March, 2021
